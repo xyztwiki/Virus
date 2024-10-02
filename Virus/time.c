@@ -1,3 +1,4 @@
+#include "number.c"
 void time()
 { 
   const t1 = 1234567;
