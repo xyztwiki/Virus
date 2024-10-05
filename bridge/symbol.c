@@ -1,18 +1,18 @@
 #include "../lft/time.c"
 #include "../rgt/TIME2.c"
 void symbol(){
-    const t1 = "!!! !!! !!!";
-    const t2 = "@@@ @@@ @@@";
-    const t3 = "### ### ###";
-    const t4 = "$$$ $$$ $$$";
-    const t5 = "%%% %%% %%%";
-    const t6 = "^^^ ^^^ ^^^";
+    char t1 = "!!! !!! !!!";
+    char t2 = "@@@ @@@ @@@";
+    char t3 = "### ### ###";
+    char t4 = "$$$ $$$ $$$";
+    char t5 = "%%% %%% %%%";
+    char t6 = "^^^ ^^^ ^^^";
 }
 void Symbol(){ 
-    const t7 = "&& && && &&";
-    const t8 = "** ** ** **";
-    const t9 = "<> <> <> <>";
-    const t10= "() () () ()";
-    const t11= "[] [] [] []";
-    const t0 = "{} {} {} {}";
+    char t7 = "&& && && &&";
+    char t8 = "** ** ** **";
+    char t9 = "<> <> <> <>";
+    char t10= "() () () ()";
+    char t11= "[] [] [] []";
+    char t0 = "{} {} {} {}";
 }
