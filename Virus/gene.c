@@ -8,5 +8,5 @@ He + He = Be;
 C + C = Mg;
 H + Li = Be;
 Li + B = O;
-B + N = 2 | 8 | 3;
+B + N = Mg;
 }
