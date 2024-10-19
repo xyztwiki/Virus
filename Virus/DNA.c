@@ -5,5 +5,5 @@ void DNA(){
    inline int c ;int t3;
    inline int d ;int t4;
    inline int e ;int t5;
-   inline int d ;int t6;
+   inline int f ;int t6;
 }
