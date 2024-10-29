@@ -1,0 +1,10 @@
+#define one 1
+#define two 2
+#define three 3
+#define four 4
+#define five 5
+#define six 6
+#define seven 7
+#define eight 8
+#define nine 9
+#define zero 0
